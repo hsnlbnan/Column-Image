@@ -561,13 +561,16 @@ a:focus {
   list-style: none;
 }
 
+.content__move {
+  background: #000000;
+}
 @media (max-width: 768px) {
   .menu__item {
     font-size: 9vw;
-    -webkit-text-stroke: 1px var(--color-menu-text);
+    -webkit-text-stroke: 1px #fff;
   }
   .menuss {
     display: flex;
-    flex-direction: column;
     gap: 0;
+  }
 }
