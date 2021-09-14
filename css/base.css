@@ -375,7 +375,7 @@ a:focus {
   line-height: 1.1;
   cursor: pointer;
   padding-bottom: 1rem;
-  -webkit-text-stroke: 2px var(--color-menu-text);
+  -webkit-text-stroke: 2px #fff;
   text-stroke: 2px var(--color-menu-text);
   -webkit-text-fill-color: transparent;
   text-fill-color: transparent;
