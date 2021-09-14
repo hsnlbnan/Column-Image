@@ -180,11 +180,11 @@ body {
 }
 
 body {
-  --color-text: #252528;
+  --color-text: #fff;
   --color-bg: #afb6bc;
-  --color-link: #252528;
+  --color-link: #fff;
   --color-link-hover: #252528;
-  --color-menu-text: #252528;
+  --color-menu-text: #fff;
   --color-bg-move: #afb6bc;
   color: var(--color-text);
   background-color: var(--color-bg);
