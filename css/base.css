@@ -582,3 +582,15 @@ a:focus {
 .menu-erkek a img {
   filter: invert(1);
 }
+
+.logo {
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+@media (max-width: 456px) {
+  .logo img {
+    max-width: 150px;
+  }
+}
