@@ -574,3 +574,11 @@ a:focus {
     gap: 0;
   }
 }
+
+.menu-kadin a img {
+  filter: invert(1);
+}
+
+.menu-erkek a img {
+  filter: invert(1);
+}
